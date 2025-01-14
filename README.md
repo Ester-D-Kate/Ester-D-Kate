@@ -15,7 +15,13 @@
 
 #### Embedded Systems & IoT:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/micropython/micropython/master/logo/vector-logo.svg" alt="MicroPython Logo" width="40" height="40"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150" viewBox="0 0 300 150" fill="none">
+  <rect width="300" height="150" fill="#ffffff"/>
+  <circle cx="75" cy="75" r="50" fill="#306998" />
+  <path d="M50 75 L75 100 L125 50" stroke="white" stroke-width="8" stroke-linecap="round" />
+  <text x="150" y="85" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#222222">MicroPython</text>
+</svg>
+
 
 #### Web Development:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
