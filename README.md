@@ -15,7 +15,7 @@
 
 #### Embedded Systems & IoT:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/>
-<img src="https://micropython.org/static/img/micropython-logo.png" alt="MicroPython Logo" width="40" height="40"/>
+<img src="[https://micropython.org/static/img/micropython-logo.png" alt="MicroPython Logo" width="40" height="40](https://upload.wikimedia.org/wikipedia/commons/a/a5/MicroPython_new_logo.jpg)"/>
 
 #### Web Development:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
