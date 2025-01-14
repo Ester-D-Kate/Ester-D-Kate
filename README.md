@@ -11,11 +11,12 @@
 #### Programming Languages:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40](https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg)"/>
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" width="200"/>
+
 
 #### Embedded Systems & IoT:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/>
-<img src="[https://micropython.org/static/img/micropython-logo.png" alt="MicroPython Logo" width="40" height="40](https://upload.wikimedia.org/wikipedia/commons/a/a5/MicroPython_new_logo.jpg)"/>
+<img src="https://raw.githubusercontent.com/micropython/micropython/master/logo/vector-logo.svg" alt="MicroPython Logo" width="40" height="40"/> 
 
 #### Web Development:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
