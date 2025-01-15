@@ -37,4 +37,6 @@
 - Protocols: I2C, SPI, UART.
 - Microcontroller Interfacing: Sensors, actuators, ADC/DAC.
 
+Why i need so much tech stack checkout my field: https://youtu.be/sLstwIDT8Bg?si=521aow9-rwQZk4Wu
+
 feel free to reach me at katecreative9@gmail.com
