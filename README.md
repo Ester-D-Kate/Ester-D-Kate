@@ -40,3 +40,5 @@
 Why i need so much tech stack checkout my field: https://youtu.be/sLstwIDT8Bg?si=521aow9-rwQZk4Wu
 
 feel free to reach me at katecreative9@gmail.com
+
+[![wakatime](https://wakatime.com/badge/user/b8c8e131-9310-4cb4-b7dd-3d324da32579.svg)](https://wakatime.com/@b8c8e131-9310-4cb4-b7dd-3d324da32579)
