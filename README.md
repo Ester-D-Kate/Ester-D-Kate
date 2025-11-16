@@ -22,6 +22,7 @@
 - **Generative AI**: Groq, Google Generative AI, LLM Integration
 - **Computer Vision**: OpenCV, MediaPipe
 - **AI Agents**: Custom AI assistants and automation
+- **Vector Databases**: Qdrant, PyVector for embeddings and semantic search
 
 ### Embedded Systems & IoT
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/> <img src="https://raw.githubusercontent.com/micropython/micropython/master/logo/vector-logo.svg" alt="MicroPython Logo" width="40" height="40"/> <img width="154" alt="ST life.augmented" src="https://github.com/STMicroelectronics/.github/blob/main/profile/images/st-logo.svg">
@@ -32,7 +33,11 @@
 - **I2C, SPI, UART**
 
 ### Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+
+- **NoSQL**: MongoDB
+- **SQL**: PostgreSQL
+- **Vector DB**: Qdrant, PyVector for AI/ML embeddings
 
 ### Tools & Operating Systems
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/> [![KiCad Logo](https://github.com/kicad/.github/blob/main/images/kicad_logo_small.png)](#) <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
