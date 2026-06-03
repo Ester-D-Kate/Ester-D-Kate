@@ -49,7 +49,7 @@
 - **STM32** (Blue Pill - STM32F103C6T6)
 
 ### System on Chip Boards
-- Raspberry Pi Zero 2W
+- Raspberry Pi
 
 ### Featured Projects
 - **[Automation Hardware](https://github.com/Ester-D-Kate/automation-hardware)**: IoT automation system with FastAPI backend, Docker containerization, AI agents, MQTT communication, and hardware integration
